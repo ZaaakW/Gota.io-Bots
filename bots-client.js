@@ -2,9 +2,9 @@
 // @name         Gota io Bots
 // @version      0.1
 // @description  gota io bots with the mouse follow (outdated version script)
+// @match        *://gota.io/web*
 // @author       Muaric
 // @grant        none
-// @match https://gota.io/web/
 // ==/UserScript==
 
 (function(window) {
