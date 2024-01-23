@@ -18,9 +18,11 @@ Gota.io bots remake by Muaric
 
 * [Node.js](https://nodejs.org/dist/v20.11.0/node-v20.11.0-x64.msi)
 
-* [proxy-agent](https://www.npmjs.com/package/proxy-agent)
-
-* [ws](https://www.npmjs.com/package/ws)
+* Required installing module
+```bash
+npm i proxy-agent
+npm i ws
+```
 
 * Install requirements
 
@@ -29,7 +31,6 @@ Gota.io bots remake by Muaric
 * Clone/Download the repo
 
 * Starting
-
 ```bash
 node server.js or
 node .
