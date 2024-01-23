@@ -3,7 +3,6 @@
 // @version      0.1
 // @description  gota io bots with the mouse follow (outdated version script)
 // @author       Muaric
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // @grant        none
 // @match https://gota.io/web/
 // ==/UserScript==
