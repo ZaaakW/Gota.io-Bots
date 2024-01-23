@@ -8,7 +8,7 @@
 
 # 📝 | Overview
 
-Gota.io bots remake by Muaric
+Gota.io bots remake by Muaric (You must be upgrade the script)
 
 [Installation](#installation) is easy in the sense that you should have a bit of coding experience. For those that don't, i'd reccomend navigating to certain modules, extracting them, and adding them to your own bot.
 
