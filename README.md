@@ -1,1 +1,36 @@
-# gota-io-bots
+# Gota.io Bots
+
+<p align="center">
+  <img src="https://gota.io/web/images/logo.png">
+</p>
+
+---
+
+# 📝 | Overview
+
+Gota.io bots remake by Muaric
+
+[Installation](#installation) is easy in the sense that you should have a bit of coding experience. For those that don't, i'd reccomend navigating to certain modules, extracting them, and adding them to your own bot.
+
+---
+
+# 📝 | Installation
+
+* [Node.js](https://nodejs.org/dist/v20.11.0/node-v20.11.0-x64.msi)
+
+* [proxy-agent](https://www.npmjs.com/package/proxy-agent)
+
+* [ws](https://www.npmjs.com/package/ws)
+
+* Install requirements
+
+* Put your proxy in `proxy.txt`
+
+* Clone/Download the repo
+
+* Starting
+
+```bash
+node server.js or
+node .
+```
