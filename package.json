@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "proxy-agent": "^5.0.0",
-    "ws": "^8.12.1"
-  }
-}
