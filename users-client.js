@@ -10,7 +10,7 @@
 (function(window) {
     'use strict';
 
-    const ws = new WebSocket("https://95f996f4-428d-4925-8eaa-62bf79bdd2f7-00-3tk1xx6j2h9z3.pike.replit.dev/");
+    const ws = new WebSocket("localhost");
     ws.binaryType = "arraybuffer";
 
     ws.onopen = () => {
