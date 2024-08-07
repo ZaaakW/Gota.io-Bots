@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Gota io Bots
 // @version      0.4
-// @description  Gota io bots with key bindings for split and eject actions, with error handling for reCAPTCHA
+// @description  Gota io bots with key bindings for split and eject actions
 // @match        *://gota.io/web*
 // @author       Muaric
 // @grant        none
